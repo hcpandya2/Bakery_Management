@@ -9,7 +9,7 @@ public class Order {
 	private HashMap<Bread, Double>  prices_when_ordered;
 	
 	private int    customer_id;
-	private int    order_id;         //need to set this
+	private int    order_id = 100;         //need to set this
 	private Date   order_date;
 	private Date   delivery_date;
 	private int    status; 			 // 1 = ready, 2 = pending , 3 = delivered/in past 
