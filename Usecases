@@ -1,0 +1,29 @@
+Use cases:
+
+Customer
+
+-subscribe to bakery
+-place an order/modify order
+-add breads
+-add quantity
+-lookup offered breads
+-modify personal and contact information
+-make payment
+-change payment method
+-check order status
+
+
+Bakery
+-lookup customer information
+-adding to /modifying to the list of breads offered
+-modifying price of breads and delivery
+-taking payment
+-notifying customer about status of delivery
+-answering customers' questions
+-adding/updating recipe
+-adding/updating ingredients
+-maintaining inventory
+-maintaining list of breads to cook for the day
+-maintaining customers' history of orders
+-maintaining list of orders for the week
+-maintaining list of ingredients to order for the next week 
