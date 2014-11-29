@@ -10,12 +10,21 @@ import java.util.Map;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.HashMap;
+import java.sql.Date;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.HashMap;
 
-public class Order_list {
+import java.sql.Date;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.HashMap;
+
+public class Order_List {
 	private ArrayList<Order> orders;
 	private HashMap<Integer, Order> orders_by_id;
 	
-	public Order_list(){
+	public Order_List(){
 		orders = new ArrayList<Order>();
 		orders_by_id = new HashMap<Integer, Order>();
 	}
@@ -40,7 +49,7 @@ public class Order_list {
 	}
 	
 	private Date getTodaysDate(){
-		return new Date();
+		return new Date(Calendar.YEAR, Calendar.MONTH, Calendar.DATE);
 	}
 		    
 	public ArrayList<Order> todays_orders(){
@@ -147,7 +156,6 @@ public class Order_list {
 	} 	//end of total_ingredients																					// end of method
 				
 }	
-
 
 
 

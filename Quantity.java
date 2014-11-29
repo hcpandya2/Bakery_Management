@@ -23,4 +23,9 @@ public Quantity(double amount, String unit){
 		}
 	}
 	
+	public String toString(){
+		return amount + " " + unit_name;
+	}
+	
+	
 }

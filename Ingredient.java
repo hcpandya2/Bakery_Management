@@ -22,5 +22,8 @@ public class Ingredient {
 		return this.info;
 	}
 	
+	public String toString(){
+		return name;
+	}
 	
 }

@@ -30,12 +30,13 @@ public class inventory {
 	
 	public void add_bread(String bread_name , double quantity, String unit){
 		Quantity q = new Quantity(quantity, unit);
-		Bread 	 b = new Bread(bread_name);
+		Bread    b = new Bread(bread_name);
 		
 		bread.put(bread_name, b);
 		bread_qty.put(b,q);
-		
-		}
+	}
+	
+	
 
 	public void add_ingredients(String ingredient_name, String info, double quantity, String unit){
 		Quantity   q   = new Quantity(quantity,unit);
