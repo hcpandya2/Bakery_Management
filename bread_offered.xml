@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<breads>
+   <bread>
+     <id>1</id>
+     <name>Whole Wheat</name>
+     <recepieid>1</recepieid>
+     <price>2.33</price>
+   </bread>
+   <bread>
+     <id>2</id>
+     <name>White</name>
+     <recepieid>2</recepieid>
+     <price>1.57</price>
+   </bread>
+   <bread>
+     <id>3</id>
+     <name>Multi-grain</name>
+     <recepieid>3</recepieid>
+     <price>4.24</price>
+   </bread>
+</breads>

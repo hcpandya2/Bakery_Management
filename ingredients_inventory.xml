@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ingredients>
+   <ingredient>
+     <name>Sugar</name>
+     <info>organic premium</info>
+     <quantity>3</quantity>
+     <unit>lb</unit>
+   </ingredient>
+   <ingredient>
+     <name>Salt</name>
+     <info>Sea salt</info>
+     <quantity>1</quantity>
+     <unit>cup</unit>
+   </ingredient>
+   <ingredient>
+     <name>Flour</name>
+     <info>Gluten free</info>
+     <quantity>4</quantity>
+     <unit>lb</unit>
+   </ingredient>
+</ingredients>

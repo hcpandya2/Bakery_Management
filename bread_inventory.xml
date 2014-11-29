@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<breads>
+   <bread>
+     <name>Whole Wheat</name>
+     <quantity>10</quantity>
+     <unit>loaf</unit>
+   </bread>
+   <bread>
+     <name>White</name>
+     <quantity>14</quantity>
+     <unit>loaf</unit>
+   </bread>
+   <bread>
+     <name>Multi-grain</name>
+     <quantity>6</quantity>
+     <unit>loaf</unit>
+   </bread>
+</breads>

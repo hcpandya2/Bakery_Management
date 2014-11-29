@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<recepies>
+   <recipe>
+     <name>Pound Cake</name>
+     <ingredient>Flour,32,oz</ingredient>
+     <ingredient>Salt,2,tsp</ingredient>
+     <ingredient>Sugar,2,cups</ingredient>
+     <width>4</width>
+     <height>5</height>
+     <length>12</length>
+     <description>Mix everything until it is smooth, then bake for 15 minutes at 350 degrees.</description>
+   </recipe>
+   <recipe>
+     <name>Healthy Bread</name>
+     <ingredient>Rice Flour,32,oz</ingredient>
+     <ingredient>Water,1,cup</ingredient>
+     <ingredient>Egg,1,qty</ingredient>
+     <ingredient>Salt,1,tsp</ingredient>
+     <width>6</width>
+     <height>2</height>
+     <length>7</length>
+     <description>Mix for three minutes, then bake for 8 minutes at 500 degrees.</description>
+   </recipe>
+</recepies>
