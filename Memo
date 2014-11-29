@@ -1,0 +1,16 @@
+
+This program gives the required prompts for the user to carry all the functions.
+It does all the tasks asked in the project requirements , accept it does not give accomodation for a scheduled calender for different bread orders for different week days, It also does not give a planned itinerary for the delivery.
+It facilitates for creating, deleting/modifying breads, ingredients, quantity of breads and ingredients, orders, subscription, recipe
+
+
+It took approx. 3-4 (504-672) weeks to finish coding and 2-3 hours to finish for submission 
+List of challenges
+
+-creating the designing and constantly changing it
+-selection of data structures
+-reading the xml files
+-how to store the data and where to store the data
+-writing tests 
+-judging the requirements of user
+-connection between two classes and their functions
